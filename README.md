@@ -8,3 +8,5 @@
 - 📫 How to reach me: twitter https://twitter.com/rookie_mlops, linkedin https://www.linkedin.com/in/favour-ukasoanya-1395a5190/
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Practice to get ahead
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pharvy-U&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
